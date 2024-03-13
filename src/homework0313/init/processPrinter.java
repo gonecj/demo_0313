@@ -1,7 +1,7 @@
-package homework.init;
+package homework0313.init;
 
-import homework.model.abcSort;
-import homework.model.bubbleSort;
+import homework0313.model.abcSort;
+import homework0313.model.bubbleSort;
 
 import java.util.ArrayList;
 

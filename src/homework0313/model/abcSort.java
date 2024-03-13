@@ -1,6 +1,6 @@
-package homework.model;
+package homework0313.model;
 
-import homework.init.printer;
+import homework0313.init.printer;
 
 import java.util.ArrayList;
 

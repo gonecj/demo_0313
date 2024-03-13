@@ -1,7 +1,4 @@
-import homework.runnerPrinter;
-import step1.inif.Socket;
-import step1.socket.Lg;
-import step1.socket.Samsung;
+import homework0313.runnerPrinter;
 
 public class Main {
     public static void main(String[] args) {

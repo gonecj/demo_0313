@@ -1,6 +1,6 @@
-package homework;
+package homework0313;
 
-import homework.init.processPrinter;
+import homework0313.init.processPrinter;
 
 public class runnerPrinter {
     public void main() {
