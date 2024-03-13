@@ -7,6 +7,7 @@ public class Main {
         Socket swich1 = new Samsung();
         Socket swich2 = new Lg();
 
-
+        swich1.plugin();
+        swich2.unplugin();
     }
 }
