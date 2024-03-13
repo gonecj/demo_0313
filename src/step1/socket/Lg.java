@@ -1,11 +1,10 @@
-package socket;
+package step1.socket;
 
-import inif.Socket;
+import step1.inif.Socket;
 
-public class Samsung implements Socket {
-
+public class Lg implements Socket {
     @Override
-    public boolean plugin()    {
+    public boolean plugin() {
         return true;
     }
 

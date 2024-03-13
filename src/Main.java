@@ -1,13 +1,11 @@
-import inif.Socket;
-import socket.Lg;
-import socket.Samsung;
+import homework.runnerPrinter;
+import step1.inif.Socket;
+import step1.socket.Lg;
+import step1.socket.Samsung;
 
 public class Main {
     public static void main(String[] args) {
-        Socket swich1 = new Samsung();
-        Socket swich2 = new Lg();
-
-        swich1.plugin();
-        swich2.unplugin();
+        runnerPrinter run =new runnerPrinter();
+        run.main();
     }
 }

@@ -1,4 +1,4 @@
-package inif;
+package step1.inif;
 
 public interface Socket {
     public boolean plugin();
